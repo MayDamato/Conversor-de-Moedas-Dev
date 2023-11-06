@@ -17,18 +17,18 @@ body {
 
 
 .logo {
-    width: 200px;
+    width: 150px;
     display: block;
     margin: 0px auto;
 }
 
 
 main {
-    width: 375px;
+    width: 350px;
     border-radius: 20px;
     background: #F4F4F4;
     margin: 0 auto 40px;
-    padding: 44px 24px 23px;
+    padding: 10px 24px 23px;
 }
 
 label {
@@ -75,7 +75,7 @@ button:active {
 section {
     border-radius: 20px;
     border: 1px solid #772FD3;
-    margin-top: 36px;
+    margin-top: 15px;
     padding: 12px;
 
     display: flex;
