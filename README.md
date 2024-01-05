@@ -20,7 +20,7 @@ Clique no link a baixo para acessar o site:
 <a></a>
 <br>
 <br> Abaixo temos alguns exemplos de como ficou a reponsividade do conversor:<br>
-<img src="https://github.com/MayDamato/Conversor-de-Moedas-Dev/blob/main/assets/comversor%20de%20moedas%20pc.png?raw=true">
-<img src="https://github.com/MayDamato/Conversor-de-Moedas-Dev/blob/main/assets/comversor%20de%20moedas%20celular.png?raw=true">
+<img src="https://github.com/MayDamato/Conversor-de-Moedas-Dev/blob/main/assets/comversor%20de%20moedas%20pc.png?raw=true" width="500" height="300">
+<img src="https://github.com/MayDamato/Conversor-de-Moedas-Dev/blob/main/assets/comversor%20de%20moedas%20celular.png?raw=true" width="200" height="400">
 
  
